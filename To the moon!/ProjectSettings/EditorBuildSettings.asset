@@ -10,5 +10,14 @@ EditorBuildSettings:
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/Under.unity
-    guid: 4132dca568ad44447b10f0974fc50892
+    guid: 1c3b844808d4a164a9289a874c57540d
+  - enabled: 1
+    path: Assets/Scenes/Moving.unity
+    guid: 8fd82ee7a563e0e4eb117473be05c303
+  - enabled: 1
+    path: Assets/Scenes/Small Gaps.unity
+    guid: 871ccc4b56850234f9f88bc39d4c8388
+  - enabled: 1
+    path: Assets/Scenes/Land on Me.unity
+    guid: e4489ad97ad835d458261d2f36535d42
   m_configObjects: {}
